@@ -17,7 +17,7 @@ Balanced accuracy score for deliverable 1 and 2 ranged to an unimpressive 0.5442
 Balanced accuracy score for deliverable 3 is improved to 0.7877672625306695 and 0.925427358175101, leading to an improved model.
 
 
-Below photos illustrate the least impressive and the best model.
+Below photos illustrate the *least impressive* and *the best model*.
 
 ![Unimpressive Model](https://github.com/klaudio07/Credit_Risk_Analysis/blob/main/Unimpressive%20model.png)
 
